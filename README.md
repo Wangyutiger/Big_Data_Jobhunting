@@ -1,1 +1,2 @@
-# Big_Data_Jobhunting
+# 菜鸡大数据求职笔记
+## 仅作为学习记录
